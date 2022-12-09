@@ -1,0 +1,26 @@
+color
+logo--#000000
+menu--#626262
+comment--#b4ad9e
+para--#626262
+--------
+
+fonts---
+Inconsolata reg
+PlayfairDisplay reg
+Ubuntu
+--------
+playfair--
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+-----
+ubuntu---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+-----
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
